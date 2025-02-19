@@ -1,0 +1,19 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# VsCode
+.vscode/
+
+# Dependencies
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Log & Temp Files
+*.Log
+logs/
+*.cache
+*.tmp
