@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker", "Worker\Worker.csproj", "{AC7716DC-8EA8-4268-9552-EEBFA7C8CBCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClient", "HttpClient\HttpClient.csproj", "{D78BE1D8-5DC0-4910-B9BB-33BF60CE5180}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{AC7716DC-8EA8-4268-9552-EEBFA7C8CBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC7716DC-8EA8-4268-9552-EEBFA7C8CBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC7716DC-8EA8-4268-9552-EEBFA7C8CBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78BE1D8-5DC0-4910-B9BB-33BF60CE5180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78BE1D8-5DC0-4910-B9BB-33BF60CE5180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78BE1D8-5DC0-4910-B9BB-33BF60CE5180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78BE1D8-5DC0-4910-B9BB-33BF60CE5180}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
